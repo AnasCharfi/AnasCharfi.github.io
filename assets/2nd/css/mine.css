@@ -1,0 +1,32 @@
+.scrolling-wrapper {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
+.scrolling-wrapper:card {
+      display: inline-block;
+    }
+
+.cover-design {
+      
+      background-image: url('/assets/images/covers/cover-design.png');
+      border-radius: 0 0 10px 10px; 
+      
+    }
+
+.cover-dev {
+      
+      background-image: url('/assets/images/covers/cover-dev.png');
+      border-radius: 10px 10px 0 0; 
+      
+    }
+
+.client-review {
+      border: 1px solid #37BC9B;
+      border-radius: 10px;
+
+      /* just to show box-shadow still works fine */
+      box-shadow: 0 3px 9px black, inset 0 0 9px white;
+  }
+  

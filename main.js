@@ -1288,6 +1288,7 @@ class NavbarComponent {
         const element = document.getElementById('navbarSupportedContent');
         if (element && this.mobileMenuState == false) {
             element.classList.add('show');
+            //element.setAttribute("style", "background-color:#FFFFFF;");
             this.mobileMenuState = true;
         }
         else if (element && this.mobileMenuState == true) {
@@ -1297,7 +1298,7 @@ class NavbarComponent {
     }
 }
 NavbarComponent.ɵfac = function NavbarComponent_Factory(t) { return new (t || NavbarComponent)(); };
-NavbarComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: NavbarComponent, selectors: [["app-navbar"]], decls: 30, vars: 0, consts: [["id", "header-nav", "role", "navigation", 1, "navbar", "navbar-expand-lg", 2, "background", "#91bdf8"], [1, "container"], ["href", "#", 1, "nav-link", "smooth-scroll"], ["type", "button", "data-bs-toggle", "collapse", "data-bs-target", "#navbarSupportedContent", "aria-controls", "navbarSupportedContent", "aria-expanded", "false", "aria-label", "Toggle navigation", 1, "navbar-toggler", 2, "background", "#0045a0", "position", "relative", "z-index", "999", 3, "click"], [1, "navbar-toggler-icon"], ["id", "navbarSupportedContent", 1, "collapse", "navbar-collapse"], [1, "navbar-nav", "ms-auto", "me-2"], [1, "nav-item"], [1, "nav-item", 2, "border-top", "1px dashed  #6194d6", "border-bottom", "1px dashed #6194d6"], ["href", "#about", 1, "nav-link", "smooth-scroll"], ["href", "#services", 1, "nav-link", "smooth-scroll"], ["href", "#skills", 1, "nav-link", "smooth-scroll"], ["routerLink", "portfolio", 1, "nav-link", "smooth-scroll"], ["href", "#experience", 1, "nav-link", "smooth-scroll"], ["routerLink", "certificates", "routerLinkActive", "active", 1, "nav-link", "smooth-scroll"], ["href", "#contact", 1, "nav-link", "smooth-scroll"]], template: function NavbarComponent_Template(rf, ctx) { if (rf & 1) {
+NavbarComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: NavbarComponent, selectors: [["app-navbar"]], decls: 30, vars: 0, consts: [["id", "header-nav", "role", "navigation", 1, "navbar", "navbar-expand-lg", 2, "background", "#91bdf8"], [1, "container"], ["href", "#", 1, "nav-link", "smooth-scroll"], ["type", "button", "data-bs-toggle", "collapse", "data-bs-target", "#navbarSupportedContent", "aria-controls", "navbarSupportedContent", "aria-expanded", "false", "aria-label", "Toggle navigation", 1, "navbar-toggler", 2, "background-image", "url('/assets/images/bars-solid.svg')", "background-repeat", "no-repeat", "background-size", "contain", "background-position-x", "center", "position", "relative", "z-index", "999", 3, "click"], [1, "navbar-toggler-icon"], ["id", "navbarSupportedContent", 1, "collapse", "navbar-collapse"], [1, "navbar-nav", "ms-auto", "me-2"], [1, "nav-item"], [1, "nav-item", 2, "border-top", "1px dashed  #6194d6", "border-bottom", "1px dashed #6194d6"], ["href", "#about", 1, "nav-link", "smooth-scroll"], ["href", "#services", 1, "nav-link", "smooth-scroll"], ["href", "#skills", 1, "nav-link", "smooth-scroll"], ["routerLink", "portfolio", 1, "nav-link", "smooth-scroll"], ["href", "#experience", 1, "nav-link", "smooth-scroll"], ["routerLink", "certificates", "routerLinkActive", "active", 1, "nav-link", "smooth-scroll"], ["href", "#contact", 1, "nav-link", "smooth-scroll"]], template: function NavbarComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "nav", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "a", 2);
@@ -1742,10 +1743,9 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const routes = [
-    { path: '', redirectTo: 'home', pathMatch: 'full' },
-    { path: 'home', component: _home_home_component__WEBPACK_IMPORTED_MODULE_1__["HomeComponent"] },
     { path: 'certificates', component: _certificates_certificates_component__WEBPACK_IMPORTED_MODULE_2__["CertificatesComponent"] },
     { path: 'portfolio', component: _portfolio_portfolio_component__WEBPACK_IMPORTED_MODULE_3__["PortfolioComponent"] },
+    { path: 'home', component: _home_home_component__WEBPACK_IMPORTED_MODULE_1__["HomeComponent"] },
     { path: '**', redirectTo: 'home' },
 ];
 class AppRoutingModule {

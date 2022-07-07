@@ -251,7 +251,7 @@ HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](92, "div", 51);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](93, "div", 52);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](94, "Phone");
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](94, "Phone/Whatsapp");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](95, "div", 53);
@@ -1012,7 +1012,7 @@ HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](572, "h3", 115);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](573, "Phone");
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](573, "Phone / Whatsapp");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](574, "div", 116);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](575, "+216-53-072-794");
@@ -1592,7 +1592,7 @@ CertificatesComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵde
     } if (rf & 2) {
         let _t;
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵqueryRefresh"](_t = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵloadQuery"]()) && (ctx.carousel = _t.first);
-    } }, decls: 72, vars: 2, consts: [["id", "top"], ["align", "center", 2, "margin-top", "2%"], ["class", "text-lg-center", 4, "ngIf"], ["align", "center", 2, "padding-top", "20px"], [2, "font-size", "10pt"], [1, "table", "table-striped"], ["scope", "col"], [4, "ngFor", "ngForOf"], [1, "bg-light"], [1, "page-content", 2, "margin-bottom", "10px"], ["id", "content"], [1, "cover", "bg-light", 2, "background", "linear-gradient(180deg ,  #91bdf8, #F5F7FA  )"], [1, "pt-4", "pb-4", "text-muted", "text-center", "d-print-none"], [1, "container"], [1, "my-3"], [1, "h4"], [1, "footer-nav"], ["role", "navigation"], [1, "nav", "justify-content-center"], [1, "nav-item"], ["href", "https://twitter.com/CharfiAnas", "title", "Twitter", 1, "nav-link"], [1, "fab", "fa-twitter"], [1, "menu-title", "sr-only"], ["href", "https://www.facebook.com/The.Hakerz.Zinger/", "title", "Facebook", 1, "nav-link"], [1, "fab", "fa-facebook-f"], ["href", "https://www.instagram.com/anascharfi/", "title", "Instagram", 1, "nav-link"], [1, "fab", "fa-instagram"], ["href", "https://www.linkedin.com/in/anas-charfi/", "title", "LinkedIn", 1, "nav-link"], [1, "fab", "fa-linkedin"], ["href", "https://github.com/AnasCharfi", "title", "Behance", 1, "nav-link"], [1, "fab", "fa-github"], [1, "text-small"], [1, "mb-1"], ["target", "_blank"], ["id", "scrolltop"], ["href", "#top", 1, "btn", "btn-primary", "smooth-scroll"], [1, "icon"], [1, "fas", "fa-angle-up", "fa-2x"], [1, "text-lg-center"], ["ngbSlide", ""], [1, "picsum-img-wrapper"], ["alt", "Random first slide", 3, "src"], ["alt", "Random second slide", 2, "max-width", "941px", "max-height", "559", 3, "src"], ["alt", "Random third slide", 2, "max-width", "941px", "max-height", "559", 3, "src"], ["scope", "row"], [2, "word-wrap", "normal"], [4, "ngIf", "ngIfThen", "ngIfElse"], ["existsBlock", ""], ["elseBlock", ""], ["target", "_blank", 3, "href"], ["src", "/assets/images/link.svg"]], template: function CertificatesComponent_Template(rf, ctx) { if (rf & 1) {
+    } }, decls: 72, vars: 2, consts: [["id", "top"], ["align", "center", 2, "margin-top", "2%"], ["class", "text-lg-center", 4, "ngIf"], ["align", "center", 2, "padding-top", "20px"], [2, "font-size", "10pt"], [1, "table", "table-striped"], ["scope", "col"], [4, "ngFor", "ngForOf"], [1, "bg-light"], [1, "page-content", 2, "margin-bottom", "10px"], ["id", "content"], [1, "cover", "bg-light", 2, "background", "linear-gradient(180deg ,  #91bdf8, #F5F7FA  )"], [1, "pt-4", "pb-4", "text-muted", "text-center", "d-print-none"], [1, "container"], [1, "my-3"], [1, "h4"], [1, "footer-nav"], ["role", "navigation"], [1, "nav", "justify-content-center"], [1, "nav-item"], ["href", "https://twitter.com/CharfiAnas", "title", "Twitter", 1, "nav-link"], [1, "fab", "fa-twitter"], [1, "menu-title", "sr-only"], ["href", "https://www.facebook.com/The.Hakerz.Zinger/", "title", "Facebook", 1, "nav-link"], [1, "fab", "fa-facebook-f"], ["href", "https://www.instagram.com/anascharfi/", "title", "Instagram", 1, "nav-link"], [1, "fab", "fa-instagram"], ["href", "https://www.linkedin.com/in/anas-charfi/", "title", "LinkedIn", 1, "nav-link"], [1, "fab", "fa-linkedin"], ["href", "https://github.com/AnasCharfi", "title", "Behance", 1, "nav-link"], [1, "fab", "fa-github"], [1, "text-small"], [1, "mb-1"], ["target", "_blank"], ["id", "scrolltop"], ["href", "#top", 1, "btn", "btn-primary", "smooth-scroll"], [1, "icon"], [1, "fas", "fa-angle-up", "fa-2x"], [1, "text-lg-center"], ["ngbSlide", ""], [1, "picsum-img-wrapper", "text-center"], ["alt", "Random first slide", 2, "width", "75%!important", "height", "auto!important", "object-fit", "contain", 3, "src"], ["alt", "Random second slide", 2, "width", "75%!important", "height", "auto!important", "object-fit", "contain", 3, "src"], ["alt", "Random third slide", 2, "width", "75%!important", "height", "auto!important", "object-fit", "contain", 3, "src"], ["scope", "row"], [2, "word-wrap", "normal"], [4, "ngIf", "ngIfThen", "ngIfElse"], ["existsBlock", ""], ["elseBlock", ""], ["target", "_blank", 3, "href"], ["src", "/assets/images/link.svg"]], template: function CertificatesComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "body", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](1, "h5", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](2, "Below you will find the certificates that I've seen to be the most important ones");
@@ -1825,16 +1825,8 @@ __webpack_require__.r(__webpack_exports__);
 
 const _c0 = ["carousel"];
 function PortfolioComponent_ngb_carousel_54_ng_template_1_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 36);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](1, "img", 37);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 38);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](3, "h3");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](4, "10 seconds between slides...");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "p");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](6, "This carousel uses customized default values.");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 37);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](1, "img", 38);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r2 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"](2);
@@ -1842,16 +1834,8 @@ function PortfolioComponent_ngb_carousel_54_ng_template_1_Template(rf, ctx) { if
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx_r2.trency_images[0], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
 } }
 function PortfolioComponent_ngb_carousel_54_ng_template_2_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 37);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](1, "img", 39);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 38);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](3, "h3");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](4, "No mouse events...");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "p");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](6, "This carousel doesn't pause or resume on mouse events");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r3 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"](2);
@@ -1859,16 +1843,8 @@ function PortfolioComponent_ngb_carousel_54_ng_template_2_Template(rf, ctx) { if
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx_r3.trency_images[1], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
 } }
 function PortfolioComponent_ngb_carousel_54_ng_template_3_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 37);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](1, "img", 40);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 38);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](3, "h3");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](4, "No mouse events...");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "p");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](6, "This carousel doesn't pause or resume on mouse events");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r4 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"](2);
@@ -1876,16 +1852,8 @@ function PortfolioComponent_ngb_carousel_54_ng_template_3_Template(rf, ctx) { if
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx_r4.trency_images[2], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
 } }
 function PortfolioComponent_ngb_carousel_54_ng_template_4_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 37);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](1, "img", 41);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 38);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](3, "h3");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](4, "No mouse events...");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "p");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](6, "This carousel doesn't pause or resume on mouse events");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r5 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"](2);
@@ -1893,24 +1861,16 @@ function PortfolioComponent_ngb_carousel_54_ng_template_4_Template(rf, ctx) { if
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx_r5.trency_images[3], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
 } }
 function PortfolioComponent_ngb_carousel_54_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "ngb-carousel", 34);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](1, PortfolioComponent_ngb_carousel_54_ng_template_1_Template, 7, 1, "ng-template", 35);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](2, PortfolioComponent_ngb_carousel_54_ng_template_2_Template, 7, 1, "ng-template", 35);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](3, PortfolioComponent_ngb_carousel_54_ng_template_3_Template, 7, 1, "ng-template", 35);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](4, PortfolioComponent_ngb_carousel_54_ng_template_4_Template, 7, 1, "ng-template", 35);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "ngb-carousel", 35);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](1, PortfolioComponent_ngb_carousel_54_ng_template_1_Template, 2, 1, "ng-template", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](2, PortfolioComponent_ngb_carousel_54_ng_template_2_Template, 2, 1, "ng-template", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](3, PortfolioComponent_ngb_carousel_54_ng_template_3_Template, 2, 1, "ng-template", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](4, PortfolioComponent_ngb_carousel_54_ng_template_4_Template, 2, 1, "ng-template", 36);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 } }
 function PortfolioComponent_ngb_carousel_75_ng_template_1_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 36);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](1, "img", 37);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 38);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](3, "h3");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](4, "10 seconds between slides...");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "p");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](6, "This carousel uses customized default values.");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 37);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](1, "img", 38);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r6 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"](2);
@@ -1918,16 +1878,8 @@ function PortfolioComponent_ngb_carousel_75_ng_template_1_Template(rf, ctx) { if
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx_r6.terrainet_images[0], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
 } }
 function PortfolioComponent_ngb_carousel_75_ng_template_2_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 37);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](1, "img", 42);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 38);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](3, "h3");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](4, "No mouse events...");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "p");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](6, "This carousel doesn't pause or resume on mouse events");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r7 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"](2);
@@ -1935,16 +1887,8 @@ function PortfolioComponent_ngb_carousel_75_ng_template_2_Template(rf, ctx) { if
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx_r7.terrainet_images[1], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
 } }
 function PortfolioComponent_ngb_carousel_75_ng_template_3_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 37);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](1, "img", 40);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 38);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](3, "h3");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](4, "No mouse events...");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "p");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](6, "This carousel doesn't pause or resume on mouse events");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r8 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"](2);
@@ -1952,16 +1896,8 @@ function PortfolioComponent_ngb_carousel_75_ng_template_3_Template(rf, ctx) { if
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx_r8.terrainet_images[2], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
 } }
 function PortfolioComponent_ngb_carousel_75_ng_template_4_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 37);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](1, "img", 41);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 38);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](3, "h3");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](4, "No mouse events...");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "p");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](6, "This carousel doesn't pause or resume on mouse events");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r9 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"](2);
@@ -1969,16 +1905,8 @@ function PortfolioComponent_ngb_carousel_75_ng_template_4_Template(rf, ctx) { if
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx_r9.terrainet_images[3], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
 } }
 function PortfolioComponent_ngb_carousel_75_ng_template_5_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 37);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](1, "img", 41);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 38);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](3, "h3");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](4, "No mouse events...");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "p");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](6, "This carousel doesn't pause or resume on mouse events");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r10 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"](2);
@@ -1986,16 +1914,8 @@ function PortfolioComponent_ngb_carousel_75_ng_template_5_Template(rf, ctx) { if
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx_r10.terrainet_images[4], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
 } }
 function PortfolioComponent_ngb_carousel_75_ng_template_6_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 37);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](1, "img", 41);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 38);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](3, "h3");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](4, "No mouse events...");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "p");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](6, "This carousel doesn't pause or resume on mouse events");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r11 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"](2);
@@ -2003,16 +1923,8 @@ function PortfolioComponent_ngb_carousel_75_ng_template_6_Template(rf, ctx) { if
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx_r11.terrainet_images[5], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
 } }
 function PortfolioComponent_ngb_carousel_75_ng_template_7_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 37);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](1, "img", 41);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 38);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](3, "h3");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](4, "No mouse events...");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "p");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](6, "This carousel doesn't pause or resume on mouse events");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r12 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"](2);
@@ -2020,16 +1932,8 @@ function PortfolioComponent_ngb_carousel_75_ng_template_7_Template(rf, ctx) { if
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx_r12.terrainet_images[6], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
 } }
 function PortfolioComponent_ngb_carousel_75_ng_template_8_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 37);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](1, "img", 41);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 38);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](3, "h3");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](4, "No mouse events...");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "p");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](6, "This carousel doesn't pause or resume on mouse events");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r13 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"](2);
@@ -2037,16 +1941,8 @@ function PortfolioComponent_ngb_carousel_75_ng_template_8_Template(rf, ctx) { if
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx_r13.terrainet_images[7], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
 } }
 function PortfolioComponent_ngb_carousel_75_ng_template_9_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 37);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](1, "img", 43);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 38);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](3, "h3");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](4, "No mouse events...");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "p");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](6, "This carousel doesn't pause or resume on mouse events");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r14 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"](2);
@@ -2054,16 +1950,8 @@ function PortfolioComponent_ngb_carousel_75_ng_template_9_Template(rf, ctx) { if
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx_r14.terrainet_images[8], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
 } }
 function PortfolioComponent_ngb_carousel_75_ng_template_10_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 37);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](1, "img", 43);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 38);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](3, "h3");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](4, "No mouse events...");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "p");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](6, "This carousel doesn't pause or resume on mouse events");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r15 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"](2);
@@ -2071,16 +1959,8 @@ function PortfolioComponent_ngb_carousel_75_ng_template_10_Template(rf, ctx) { i
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx_r15.terrainet_images[9], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
 } }
 function PortfolioComponent_ngb_carousel_75_ng_template_11_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "div", 37);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](1, "img", 43);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 38);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](3, "h3");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](4, "No mouse events...");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](5, "p");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](6, "This carousel doesn't pause or resume on mouse events");
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 } if (rf & 2) {
     const ctx_r16 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵnextContext"](2);
@@ -2088,18 +1968,18 @@ function PortfolioComponent_ngb_carousel_75_ng_template_11_Template(rf, ctx) { i
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵproperty"]("src", ctx_r16.terrainet_images[10], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsanitizeUrl"]);
 } }
 function PortfolioComponent_ngb_carousel_75_Template(rf, ctx) { if (rf & 1) {
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "ngb-carousel", 34);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](1, PortfolioComponent_ngb_carousel_75_ng_template_1_Template, 7, 1, "ng-template", 35);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](2, PortfolioComponent_ngb_carousel_75_ng_template_2_Template, 7, 1, "ng-template", 35);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](3, PortfolioComponent_ngb_carousel_75_ng_template_3_Template, 7, 1, "ng-template", 35);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](4, PortfolioComponent_ngb_carousel_75_ng_template_4_Template, 7, 1, "ng-template", 35);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](5, PortfolioComponent_ngb_carousel_75_ng_template_5_Template, 7, 1, "ng-template", 35);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](6, PortfolioComponent_ngb_carousel_75_ng_template_6_Template, 7, 1, "ng-template", 35);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](7, PortfolioComponent_ngb_carousel_75_ng_template_7_Template, 7, 1, "ng-template", 35);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](8, PortfolioComponent_ngb_carousel_75_ng_template_8_Template, 7, 1, "ng-template", 35);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](9, PortfolioComponent_ngb_carousel_75_ng_template_9_Template, 7, 1, "ng-template", 35);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](10, PortfolioComponent_ngb_carousel_75_ng_template_10_Template, 7, 1, "ng-template", 35);
-    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](11, PortfolioComponent_ngb_carousel_75_ng_template_11_Template, 7, 1, "ng-template", 35);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "ngb-carousel", 35);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](1, PortfolioComponent_ngb_carousel_75_ng_template_1_Template, 2, 1, "ng-template", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](2, PortfolioComponent_ngb_carousel_75_ng_template_2_Template, 2, 1, "ng-template", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](3, PortfolioComponent_ngb_carousel_75_ng_template_3_Template, 2, 1, "ng-template", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](4, PortfolioComponent_ngb_carousel_75_ng_template_4_Template, 2, 1, "ng-template", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](5, PortfolioComponent_ngb_carousel_75_ng_template_5_Template, 2, 1, "ng-template", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](6, PortfolioComponent_ngb_carousel_75_ng_template_6_Template, 2, 1, "ng-template", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](7, PortfolioComponent_ngb_carousel_75_ng_template_7_Template, 2, 1, "ng-template", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](8, PortfolioComponent_ngb_carousel_75_ng_template_8_Template, 2, 1, "ng-template", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](9, PortfolioComponent_ngb_carousel_75_ng_template_9_Template, 2, 1, "ng-template", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](10, PortfolioComponent_ngb_carousel_75_ng_template_10_Template, 2, 1, "ng-template", 36);
+    _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtemplate"](11, PortfolioComponent_ngb_carousel_75_ng_template_11_Template, 2, 1, "ng-template", 36);
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
 } }
 const CERTIFICATES = [
@@ -2174,7 +2054,7 @@ PortfolioComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefin
     } if (rf & 2) {
         let _t;
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵqueryRefresh"](_t = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵloadQuery"]()) && (ctx.carousel = _t.first);
-    } }, decls: 154, vars: 2, consts: [["id", "top"], [1, "page-content"], [1, "container"], [1, "cover", "shadow-lg", "p-lg-4", 2, "margin-top", "50px"], [1, "cover-dev"], [1, "row"], [1, "text-center", "text-md-start"], ["data-aos", "fade-left", "data-aos-delay", "100"], ["data-aos", "fade-left", "data-aos-delay", "0", "align", "center", 1, "h1", "mb-3", 2, "color", "white"], ["data-aos", "fade-left", "data-aos-delay", "200", 1, "d-print-none"], ["id", "Logistics_Company", 1, "about-section", "pt-4", "px-3", "px-lg-4", "mt-1"], [1, ""], [1, "h4", "mb-1"], [1, "text-muted", "h5"], [1, "text-muted", "h6", 2, "font-size", "50%"], [1, "text-muted", "h6"], ["align", "center"], ["width", "720", "height", "405", "controls", "", "controlsList", "nodownload"], ["src", "/assets/videos/Logistics_Company.mp4", "type", "video/mp4"], [2, "text-align", "justify", "text-justify", "inter-word"], [1, "h6", "mb-1"], ["src", "/assets/images/portfolio/reviews_dev/Logistics_Company.PNG", 1, "client-review"], [1, "d-print-none"], ["id", "trency", 1, "about-section", "pt-4", "px-3", "px-lg-4", "mt-1"], ["class", "text-lg-center", 4, "ngIf"], ["id", "Terrainet", 1, "about-section", "pt-4", "px-3", "px-lg-4", "mt-1"], [1, "cover-design"], [1, "about-section", "pt-4", "px-3", "px-lg-4", "mt-1"], ["src", "/assets/images/portfolio/design/logo_trency.png", "width", "400", "height", "200", "alt", "logo_anit", 1, "img-fluid", 2, "border-radius", "10px"], ["src", "/assets/images/portfolio/design/logo_anit.png", "width", "200", "height", "200", "alt", "logo_anit", 1, "img-fluid"], ["src", "/assets/images/portfolio/design/logo_datasense.png", "width", "400", "height", "200", "alt", "logo_anit", 1, "img-fluid"], ["src", "/assets/images/portfolio/design/business_card_front.png", "width", "500", "alt", "business_card_front", 1, "img-fluid"], ["align", "center", 1, "h4", "mb-1"], ["src", "/assets/images/portfolio/design/business_card_back.png", "width", "500", "alt", "business_card_back", 1, "img-fluid"], [1, "text-lg-center"], ["ngbSlide", ""], [1, "picsum-img-wrapper"], ["alt", "Random first slide", 2, "height", "100%", "width", "100%", "object-fit", "contain", 3, "src"], [1, "carousel-caption"], ["alt", "Random second slide", 2, "height", "100%", "width", "100%", "object-fit", "contain", 3, "src"], ["alt", "Random third slide", 2, "height", "100%", "width", "100%", "object-fit", "contain", 3, "src"], ["alt", "Random fourth slide", 2, "height", "100%", "width", "100%", "object-fit", "contain", 3, "src"], ["alt", "Random second slide", 2, "height", "100%", "width", "110%", "object-fit", "contain", 3, "src"], ["alt", "Random fourth slide", 3, "src"]], template: function PortfolioComponent_Template(rf, ctx) { if (rf & 1) {
+    } }, decls: 154, vars: 2, consts: [["id", "top"], [1, "page-content"], [1, "container"], [1, "cover", "shadow-lg", "p-lg-4", 2, "margin-top", "50px"], [1, "cover-dev"], [1, "row"], [1, "text-center", "text-md-start"], ["data-aos", "fade-left", "data-aos-delay", "100"], ["data-aos", "fade-left", "data-aos-delay", "0", "align", "center", 1, "h1", "mb-3", 2, "color", "white"], ["data-aos", "fade-left", "data-aos-delay", "200", 1, "d-print-none"], ["id", "Logistics_Company", 1, "about-section", "pt-4", "px-3", "px-lg-4", "mt-1"], [1, ""], [1, "h4", "mb-1"], [1, "text-muted", "h5"], [1, "text-muted", "h6", 2, "font-size", "50%"], [1, "text-muted", "h6"], ["align", "center", 1, "row"], ["width", "auto", "height", "auto", "controls", "", "controlsList", "nodownload"], ["src", "/assets/videos/Logistics_Company.mp4", "type", "video/mp4"], [2, "text-align", "justify", "text-justify", "inter-word"], [1, "h6", "mb-1"], ["src", "/assets/images/portfolio/reviews_dev/Logistics_Company.PNG", 1, "client-review"], [1, "d-print-none"], ["id", "trency", 1, "about-section", "pt-4", "px-3", "px-lg-4", "mt-1"], ["class", "text-lg-center", 4, "ngIf"], ["id", "Terrainet", 1, "about-section", "pt-4", "px-3", "px-lg-4", "mt-1"], [1, "cover-design"], [1, "about-section", "pt-4", "px-3", "px-lg-4", "mt-1"], ["align", "center"], ["src", "/assets/images/portfolio/design/logo_trency.png", "width", "400", "height", "200", "alt", "logo_anit", 1, "img-fluid", 2, "border-radius", "10px"], ["src", "/assets/images/portfolio/design/logo_anit.png", "width", "200", "height", "200", "alt", "logo_anit", 1, "img-fluid"], ["src", "/assets/images/portfolio/design/logo_datasense.png", "width", "400", "height", "200", "alt", "logo_anit", 1, "img-fluid"], ["src", "/assets/images/portfolio/design/business_card_front.png", "width", "500", "alt", "business_card_front", 1, "img-fluid"], ["align", "center", 1, "h4", "mb-1"], ["src", "/assets/images/portfolio/design/business_card_back.png", "width", "500", "alt", "business_card_back", 1, "img-fluid"], [1, "text-lg-center"], ["ngbSlide", ""], [1, "picsum-img-wrapper"], ["alt", "Random first slide", 2, "height", "100%", "width", "100%", "object-fit", "contain", 3, "src"], ["alt", "Random second slide", 2, "height", "100%", "width", "100%", "object-fit", "contain", 3, "src"], ["alt", "Random third slide", 2, "height", "100%", "width", "100%", "object-fit", "contain", 3, "src"], ["alt", "Random fourth slide", 2, "height", "100%", "width", "100%", "object-fit", "contain", 3, "src"], ["alt", "Random second slide", 2, "height", "100%", "width", "110%", "object-fit", "contain", 3, "src"], ["alt", "Random fourth slide", 3, "src"]], template: function PortfolioComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "body", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](2, "div", 2);
@@ -2322,12 +2202,12 @@ PortfolioComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefin
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](99, " Logo");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](100, "div", 16);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](101, "img", 28);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](100, "div", 28);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](101, "img", 29);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](102, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](103, "p", 19);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](104, "La figure [61] ci-dessus expose le logo de notre plateforme qui est minimale et simple puisque c'est la tendance. La loupe qui contient une charte expose l'id\u00E9e que notre projet donne un plus que les autres projets qui sont bas\u00E9s juste sur l'affichage des chartes d'\u00E9volution des prix. Le nom de notre projet est compos\u00E9 de deux mots : Tr + ency -\u201DTr\u201D c'est pour le \"Trading'\" et c'est le jeu des stocks et d'investissement, -\u201Dency\u201D c'est pour \"Currency'\" et c'est la devise. Finalement, nous avons choisi la d\u00E9gradation des couleurs pour mettre en valeur l'id\u00E9e de l'\u00E9volution et l'oranger pour donner l'impression dynamique et rapide. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](104, "The figure above shows the logo of our platform which is minimal and simple since this is the trend. The magnifying glass that contains a charter exposes the idea that our project gives a plus to other projects that are based just on the display of price evolution charts. The name of our project is composed of two parts: Tr + ency -\u201CTr\u201D is for \u201CTrading\u201D and it\u2019s the stock and investment game, -\u201Dency\u201D is for \u201CCurrency\u201D, and that\u2019s the currency. Finally, we chose color degradation to highlight the idea of evolution and orange color to give dynamic and fast impression. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
@@ -2342,8 +2222,8 @@ PortfolioComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefin
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](112, " Logo");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](113, "div", 16);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](114, "img", 29);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](113, "div", 28);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](114, "img", 30);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](115, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](116, "p", 19);
@@ -2362,8 +2242,8 @@ PortfolioComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefin
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](125, " Logo");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](126, "div", 16);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](127, "img", 30);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](126, "div", 28);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](127, "img", 31);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](128, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](129, "p", 19);
@@ -2382,19 +2262,19 @@ PortfolioComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefin
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](138, " Business Card");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](139, "div", 16);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](140, "img", 31);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](139, "div", 28);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](140, "img", 32);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](141, "div", 32);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](141, "div", 33);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](142, "span", 13);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](143, "Front Face");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](144, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](145, "div", 16);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](146, "img", 33);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](145, "div", 28);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelement"](146, "img", 34);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](147, "div", 32);
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](147, "div", 33);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](148, "span", 13);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](149, "Back Face");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();

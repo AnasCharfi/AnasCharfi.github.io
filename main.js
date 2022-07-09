@@ -1702,11 +1702,11 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const routes = [
-    { path: '', redirectTo: 'home' },
     { path: 'certificates', component: _certificates_certificates_component__WEBPACK_IMPORTED_MODULE_2__["CertificatesComponent"] },
     { path: 'portfolio', component: _portfolio_portfolio_component__WEBPACK_IMPORTED_MODULE_3__["PortfolioComponent"] },
     { path: 'home', component: _home_home_component__WEBPACK_IMPORTED_MODULE_1__["HomeComponent"] },
-    { path: '**', redirectTo: 'home' },
+    { path: '', redirectTo: '/home', pathMatch: 'full' },
+    { path: '**', component: _home_home_component__WEBPACK_IMPORTED_MODULE_1__["HomeComponent"] },
 ];
 class AppRoutingModule {
 }

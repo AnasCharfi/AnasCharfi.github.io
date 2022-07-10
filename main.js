@@ -40,7 +40,7 @@ class HomeComponent extends _app_component__WEBPACK_IMPORTED_MODULE_0__["AppComp
         var currentYear = new Date().getFullYear();
         var currentMonth = new Date().getMonth();
         var b = new Date(b1);
-        var e = new Date(monthName + currentYear);
+        var e = new Date(monthName + " 01 " + currentYear);
         var bMonth = b.getMonth();
         var bYear = b.getFullYear();
         var eYear = e.getFullYear();
@@ -95,6 +95,7 @@ class HomeComponent extends _app_component__WEBPACK_IMPORTED_MODULE_0__["AppComp
             daysDiff = FirstMonthDiff;
         }
         var Days;
+        console.log(yearDiff + " Year(s)" + " " + monthDiff + " month(s)");
         return Days = yearDiff + " Year(s)" + " " + monthDiff + " month(s)";
     }
     ngOnInit() {
@@ -681,9 +682,9 @@ HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](365, " As I believe that ");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](366, "i");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](367, "\"The world will not be destroyed by those who do evil, but by those who watch them without doing anything.\"");
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](368, "u");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](369, " -Albert Einstein");
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](370, " I'm always trying to be engaged within organisations that their main objectives are sharing knowledge and make the world a better place.");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
@@ -1048,9 +1049,9 @@ HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
     } if (rf & 2) {
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](403);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](ctx.dateDiff("Jan 2021"));
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](ctx.dateDiff("Jan 01 2021"));
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵadvance"](36);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](ctx.dateDiff("Sep 2020"));
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtextInterpolate"](ctx.dateDiff("Sep 01 2020"));
     } }, directives: [_angular_router__WEBPACK_IMPORTED_MODULE_2__["RouterLinkWithHref"]], styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJob21lLmNvbXBvbmVudC5jc3MifQ== */", "[data-aos][_ngcontent-%COMP%] {\n    opacity: 1 !important;\n    transform: translate(0) scale(1) !important;\n  }"] });
 
 

@@ -1510,6 +1510,12 @@ const CERTIFICATES = [
         src: '/assets/images/certifications/Certificate-Google_DataAnalytics-4-8.png'
     },
     {
+        name: 'Analyze Data to Answer Questions',
+        provider: 'Google',
+        link: 'https://coursera.org/verify/C9ZQTCWYQH2K',
+        src: '/assets/images/certifications/Certificate-Google_DataAnalytics-5-8.png'
+    },
+    {
         name: 'What is Data Science?',
         provider: 'IBM',
         link: 'https://coursera.org/verify/ZETN2C8BEVTX',
